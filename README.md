@@ -25,3 +25,4 @@ Ik ben bedreven in verschillende programmeertalen en technologieën, waaronder:
 - Bootstrap
 - MySQL
 - JavaScript
+
